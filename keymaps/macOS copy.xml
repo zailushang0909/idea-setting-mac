@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
@@ -8,6 +11,9 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="GotoSymbol" />
   <action id="Images.Thumbnails.Hide" />
