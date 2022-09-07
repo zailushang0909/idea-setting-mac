@@ -16,7 +16,11 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="GotoSymbol" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="Images.Thumbnails.Hide" />
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
