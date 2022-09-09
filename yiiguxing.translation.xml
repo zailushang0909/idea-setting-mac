@@ -5,13 +5,24 @@
     <option name="newTranslationDialogX" value="607" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="Question 1: Will The Display Be Turned Off While The MacBook Is Closed But Not In Sleep Because Of AlDente?" />
+      <item value="AlDente will recognize that your MacBook is not plugged in anymore and will enable sleep again. However, it can take a while until your MacBook will be in sleep. Depending on your chosen settings in Preferences of macOS." />
+      <item value="Question 2: What Happens When I Unplug My MacBook While AlDente Has Disabled Sleep?" />
+      <item value="The Display will turn off for all Intel-based MacBooks. Unfortunately, the display will stay on for Apple Silicon based MacBooks." />
+      <item value="Your MacBook is plugged in, charging and the battery percentage is currently 32% and the Charge Limit is set to 80%. “Disable Sleep until Charge Limit” is activated and you close the lid of your MacBook. You need to use your MacBook on the go after only a couple of minutes, therefore, you unplug your MacBook although the charge limit is not reached yet. AlDente notices that your MacBook is unplugged and will activate sleep again. When you start using your MacBook again, the charge level is exactly where it was when the MacBook was unplugged." />
+      <item value="Your MacBook is plugged in, charging and the battery percentage is currently 65% and the Charge Limit is set to 80%. “Disable Sleep until Charge Limit” is activated and you close the lid of your MacBook. AlDente will keep your MacBook charging until the set Charge Limit of 80% is reached. When the Charge Limit is reached, AlDente will activate sleep again and your MacBook will go into sleep after the set time in macOS Preferences. When you open the lid and start using your MacBook again after a while, the battery percentage will be at 80%." />
+      <item value="When your MacBook is in sleep, third-party apps are not able to run and do any changes. Therefore, AlDente is not able to make any changes to the charging behavior of your MacBook while it is in sleep. As a result, your MacBook would either charge to 100% when it is plugged in and your MacBook goes into sleep or your MacBook would pause charging at the current charge level if you have the feature “Stop Charging while sleeping” activated. For this reason, we implemented the feature “Disable Sleep until Charge Limit”. When this feature is activated, AlDente will disable sleep until the charge limit is reached." />
+      <item value="General Explanation" />
+      <item value="Your MacBook is plugged in and currently charging to the set charge limit of 85%. “Stop charging when sleeping” is activated and you close the lid of your MacBook and it goes to sleep. At exactly the moment when you closed the lid, your battery percentage was 67%. AlDente will pause charging right before the MacBook goes to sleep and will keep the battery percentage at 67%. When you open the lid and start using your MacBook again, the battery percentage is still at 67% and charging will begin again until the set charge limit of 85% is reached." />
+      <item value="Your MacBook is plugged in and the battery percentage is at the set charge limit of 80%. “Stop charging when sleeping” is activated and you close the lid of your MacBook and it goes to sleep. AlDente will keep your charging paused even while your MacBook is in sleep. When you open the lid and start using your MacBook again, the battery percentage is still at 80%." />
+      <item value="When your MacBook is sleeping, third-party apps cannot run and make any changes. Therefore, AlDente is not able to make any changes to the charging behavior of your MacBook while it is in sleep. As a result, your MacBook will always charge to 100% when it is plugged in and your MacBook goes to sleep while charging, regardless of the set Charge Limit in AlDente. Therefore, we implemented the feature “Stop charging when sleeping”. When this feature is activated, your Macbook will stop charging right before your MacBook goes to sleep. As a result, your MacBook will stay at the current battery percentage it had just before going to sleep. Therefore, the battery will not charge to 100%." />
       <item value="session" />
       <item value="application" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
