@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
   <action id="CloseContent" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
