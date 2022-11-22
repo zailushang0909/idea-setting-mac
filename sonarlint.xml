@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.homolo.org" />
+          <token>df9ddf92df93df9fdfcbdfcfdfc8df9bdfc8df9edf93df9edfcfdfccdfc9df9adf9bdfcbdfc8df99dfc9df9adfcbdfcbdf99dfcbdf9adfc8dfc8dfcbdf9fdf99dfccdf9ddf9ddf9edf9ddf9cdfccdf98</token>
+          <option name="name" value="homolo" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
