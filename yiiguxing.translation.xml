@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="607" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="publish Event" />
       <item value="not-null property references a null or transient value : com.homolo.framework.boot.toolkit.weixin.domain.WeixinUser.personId; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.homolo.framework.boot.toolkit.weixin.domain.WeixinUser.personId" />
       <item value="Your MacBook is plugged in and currently charging to the set charge limit of 85%. “Stop charging when sleeping” is activated and you close the lid of your MacBook and it goes to sleep. At exactly the moment when you closed the lid, your battery percentage was 67%. AlDente will pause charging right before the MacBook goes to sleep and will keep the battery percentage at 67%. When you open the lid and start using your MacBook again, the battery percentage is still at 67% and charging will begin again until the set charge limit of 85% is reached." />
       <item value="Your MacBook is plugged in and the battery percentage is at the set charge limit of 80%. “Stop charging when sleeping” is activated and you close the lid of your MacBook and it goes to sleep. AlDente will keep your charging paused even while your MacBook is in sleep. When you open the lid and start using your MacBook again, the battery percentage is still at 80%." />
@@ -28,6 +29,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665217996626" />
+    <option name="lastTrimTime" value="1673490178614" />
   </component>
 </application>
