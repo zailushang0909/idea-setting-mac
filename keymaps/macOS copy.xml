@@ -19,6 +19,7 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoSymbol" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="Images.Thumbnails.Hide" />
